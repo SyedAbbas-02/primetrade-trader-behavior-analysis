@@ -28,4 +28,5 @@ ds_SyedAbbasMujthahed/
 ---
 
 Summary
+
 This project analyzes how market sentiment impacts trading performance and identifies top-performing traders under different market regimes.
