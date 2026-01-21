@@ -1,5 +1,11 @@
 # Trader Behavior Sentiment Analysis – Primetrade.ai Assignment
 
+## Google Colab Notebook:
+
+https://colab.research.google.com/drive/1PHLeStzmWyDy-RtFhAcw0yZ1_1GuSwvo?usp=sharing
+
+---
+
 ## Project Structure
 ```
 ds_SyedAbbasMujthahed/
@@ -24,6 +30,10 @@ ds_SyedAbbasMujthahed/
 2\. Upload project folder
 3\. Run cells sequentially
 4\. Outputs and charts are saved automatically
+
+Datasets Used:
+- Fear & Greed Index
+- Hyperliquid Historical Trader Data
 
 ---
 
