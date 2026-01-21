@@ -34,13 +34,13 @@ ds_SyedAbbasMujthahed/
 
 4. Outputs and charts are saved automatically
 
-Datasets Used:
+## Datasets Used:
 - Fear & Greed Index
   
 - Hyperliquid Historical Trader Data
 
 ---
 
-Summary
+## Summary
 
 This project analyzes how market sentiment impacts trading performance and identifies top-performing traders under different market regimes.
