@@ -26,13 +26,17 @@ ds_SyedAbbasMujthahed/
 --- 
 
 ## Execution Instructions
-1\. Open notebook\_1.ipynb in Google Colab
-2\. Upload project folder
-3\. Run cells sequentially
-4\. Outputs and charts are saved automatically
+1. Open notebook_1.ipynb in Google Colab
+
+2. Upload project folder
+
+3. Run cells sequentially
+
+4. Outputs and charts are saved automatically
 
 Datasets Used:
 - Fear & Greed Index
+  
 - Hyperliquid Historical Trader Data
 
 ---
